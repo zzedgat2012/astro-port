@@ -7,23 +7,23 @@ export type Project = {
 
 const projects: Project[] = [
   {
-    title: "Puppetfactory",
-    techs: ["Next.js", "TypeScript"],
-    link: "https://puppetfactory.app/",
+    title: "Oração Play",
+    techs: ["Ionic", "Angular", "Android", "iOS"],
+    link: "https://play.google.com/store/apps/details?id=org.carmelitasmensageiros.benfeitor&hl=pt_BR",
   },
   {
-    title: "Script to generate Next.js project",
-    techs: ["Shell"],
-    link: "https://github.com/MaeWolff/create-nextjs-app-bash-script",
+    title: "WWGestor",
+    techs: ["PHP", "JavaScript"],
+    link: "https://wwgestor.com.br/",
   },
   {
-    title: "Dictionary App",
-    techs: ["Next.js", "react-query", "zod"],
-    link: "https://github.com/MaeWolff/dictionary-app",
+    title: "Serigy",
+    techs: ["Oracle Cloud", "PHP", "React", "Ansible/Terraform", "Kubernetes"],
+    link: "https://serigy.net",
   },
   {
-    title: "Portfolio / Template",
-    techs: ["Astro", "TypeScript"],
+    title: "Aonde Morar",
+    techs: ["Laravel", "React", "AWS"],
     link: "https://github.com/MaeWolff/astro-portfolio-template",
     isComingSoon: true,
   },
