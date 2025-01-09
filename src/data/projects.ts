@@ -9,7 +9,7 @@ const projects: Project[] = [
   {
     title: "Cinform Online",
     techs: ["PHP", "WordPress", "AWS", "Ansible/Terraform"],
-    link: "https://play.google.com/store/apps/details?id=org.carmelitasmensageiros.benfeitor&hl=pt_BR",
+    link: "https://cinformonline.com.br",
   },
   {
     title: "WWGestor",
