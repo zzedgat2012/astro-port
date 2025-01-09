@@ -7,8 +7,8 @@ export type Project = {
 
 const projects: Project[] = [
   {
-    title: "Oração Play",
-    techs: ["Ionic", "Angular", "Android", "iOS"],
+    title: "Cinform Online",
+    techs: ["PHP", "WordPress", "AWS", "Ansible/Terraform"],
     link: "https://play.google.com/store/apps/details?id=org.carmelitasmensageiros.benfeitor&hl=pt_BR",
   },
   {
